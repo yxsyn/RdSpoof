@@ -8,5 +8,5 @@
 #### 😡  PS : la prochaine fois tu leakera pas **Capsule#0001**
 
 | Developer |
-| ------- | ------------------ |
+| ------- |
 | MasterLua |
