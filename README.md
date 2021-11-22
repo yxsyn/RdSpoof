@@ -7,6 +7,6 @@
 #### 🙋 Good luck !
 #### 😡  PS : la prochaine fois tu leakera pas **Capsule#0001**
 
-| Actual Version | Developer |
+| Developer |
 | ------- | ------------------ |
 | MasterLua |
