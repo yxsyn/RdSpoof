@@ -11,5 +11,5 @@
 | ------- |
 | MasterLua |
 
-## Exemple : ./RdSpoof 127.0.0.1 30120 12 -1 9999999 6pyk44
+## Exemple : ./RdSpoof 127.0.0.1 30120 12 -1 9999999 d47d86
 ## Syntax : ./RdSpoof IP PORT THREAD PPS TIME CFX-CODE
